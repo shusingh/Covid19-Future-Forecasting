@@ -1,6 +1,7 @@
 # Covid19-Future-Forecasting
 
 ---
+kaggle link: https://www.kaggle.com/shubhamksingh/cracking-covid19-prediction-in-depth-eda
 
 In this kaggle project, I worked on the Covid-19 dataset to predict Covid-19 cases in India and all over the world. I used Matplotlib, Seaborn, and Plotly for Data Visualization. 
 Used Prophet, Arima, Lasso, Linear Regression, Ridge Reg, Stacking & Blending for Prediction.
